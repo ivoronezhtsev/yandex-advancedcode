@@ -54,3 +54,4 @@ interface PaymentsHistoryService {
 interface UserLimitsService {
     // TODO any functions
 }
+Нужно задизайнить методы и написать логику проверки. Фидбэк: потренироваться в работе с внешними источниками, плохо что вытаскиваю все данные... примерно
